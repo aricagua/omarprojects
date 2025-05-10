@@ -24,7 +24,7 @@ description: >- # Usado para SEO y el feed Atom.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url:
-  "https://aricagua.github.io" # IMPORTANTE: Si usas un repositorio de proyecto (ej. aricagua.github.io/mi-blog-chirpy), esta es la URL base de tu GitHub Pages.
+  "https://www.omarprojects.site" # IMPORTANTE: Si usas un repositorio de proyecto (ej. aricagua.github.io/mi-blog-chirpy), esta es la URL base de tu GitHub Pages.
   # Si tu repositorio se llama `aricagua.github.io`, entonces aquí también iría "https://aricagua.github.io"
 
 github:
