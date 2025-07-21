@@ -36,6 +36,6 @@ El cumplimiento riguroso de estas normativas es un pilar fundamental para el éx
 
 Para consulta y estudio detallado por parte de profesionales, técnicos y propietarios, se adjuntan los enlaces para el acceso a los documentos normativos pertinentes:
 
-*   **[Código Eléctrico Nacional FONDONORMA 200-2009 (8va Revisión) (PDF)](https://archive.org/download/CEN2009/CEN200-2009.pdf)**
-*   **[Norma COVENIN 398:1984 - Símbolos Gráficos para Instalaciones Eléctricas en Inmuebles (PDF)](https://archive.org/download/COVENIN39884/COVENIN-398-84.pdf)**
+*   **[Código Eléctrico Nacional FONDONORMA 200-2009 (8va Revisión) (PDF)](https://github.com/aricagua/omarprojects/blob/6436de4ee7dba40aa339b8dd3f6b26cac3c175dd/assets/pdf/cdigoelctriconacional8varevisinfondonorma200-2009-221129192754-eb5c38ed.pdf)**
+*   **[Norma COVENIN 398:1984 - Símbolos Gráficos para Instalaciones Eléctricas en Inmuebles (PDF)](https://github.com/aricagua/omarprojects/blob/6436de4ee7dba40aa339b8dd3f6b26cac3c175dd/assets/pdf/398-84-simbolos-electricos.pdf)**
 *   **[Sitio Web Oficial del Colegio de Ingenieros de Venezuela (CIV)](http://www.civ.net.ve/)**
